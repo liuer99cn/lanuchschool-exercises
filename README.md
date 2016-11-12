@@ -1,8 +1,11 @@
-#Lanuch School Exercises
+# Lanuch School Exercises
 This is some exercises about web development course, this course created by [LanuchSchool](www.lanuchschool.com).
+# Installation
 
 
-#Include
+# Running Instructions
+
+# Include
 * Exercises- HTML and CSS Basics
 * Exercises-Introduction-to-Programming-with-Ruby
 * Exercises-Object-Oriented-Programming-with-Ruby
