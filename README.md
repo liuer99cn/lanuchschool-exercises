@@ -4,7 +4,7 @@ This is some exercises about web development course, this course created by [Lan
 Unless you only want to try Ruby in the browser (see the links below) you need to have Ruby installed on your computer. You can check whether Ruby already is available by opening a terminal and typing ruby -v This should output some information on the installed Ruby version. If not, see the installation page for various options of getting Ruby.
 
 # Running Instructions
-Ruby 2.2.0p0
+[Ruby 2.2.0p0](https://www.ruby-lang.org/en/documentation/)
 
 # Include
 * Exercises- HTML and CSS Basics
