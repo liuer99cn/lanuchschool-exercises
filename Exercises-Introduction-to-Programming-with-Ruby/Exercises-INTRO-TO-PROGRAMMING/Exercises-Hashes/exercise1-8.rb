@@ -3,7 +3,7 @@ puts "#Exercise 1"
 family = {  uncles: ["bob", "joe", "steve"],
             sisters: ["jane", "jill", "beth"],
             brothers: ["frank", "rob", "david"],
-            aunts: ["mary", "sally", "susan"]
+            aunts: ["mary", "sally", "susan","kate"]
 }
 
 immediate_family = family.select do |k, v|
